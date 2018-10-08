@@ -2,7 +2,7 @@ Timing your functions is necessary in all Machine Learning, to understand where 
 
 There are multiple ways to measure timing functions in Python. You can measure the initial time with `time.time()`, do it angain after the function and substract to obtain the elapsed time. More accurate clocks such as `time.perf_counter()` (to have an accurate time lapse) or `time.process_time()` (to have an accure=ate time lapse without waiting periods) are recommended in this case. However, this requires you to perform a very repetitive action: store time before, store time after, substract both. These 3 lines of code would be repeated everywhere in a piece of code you want to time. To avoid it, and to keep a beautiful codin style, we can use a **Timing Decorator**, basically a Python _Decorator_ created by me using seceral code snippets ([This one](https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python)).
 
-The code would be the following (for convenience, this code is also included in a file named `TimingDecorator.py`):
+The code would be the following (for convenience, this code is also included in a file named `Timing.py`):
 
         from typing import Dict
         from functools import wraps
