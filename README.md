@@ -1,9 +1,5 @@
 # Machine Learning Knowhow
-A series of notebooks, lists, tips and documents covering my knowhow on Machine Learning.
-
-__Author__: Alberto Ibarrondo @ibarrond
-
-__License__: MIT (Do whatever, just mention me please!)
+A series of notebooks, lists, tips and documents covering my knowhow on Machine Learning. Separated by topics:
 
 ##### Deep Learning
 - _AvoidOverfitting.md_: Tricks to avoid overfitting.
@@ -13,3 +9,7 @@ __License__: MIT (Do whatever, just mention me please!)
 ##### Coding. Python and Jupyter Notebooks.
 - _BeautifulTitleNotebook.md_: Tricks for Jupyter Notebooks.
 - _TimingInPython.md_: Beautiful and precise code to measure time taken to run a python function. Just use `@Timing`. Code in Timing.py.
+
+### Acknowledgements
+__Author__: Alberto Ibarrondo @ibarrond
+__License__: MIT (Do whatever, just mention me please!)
