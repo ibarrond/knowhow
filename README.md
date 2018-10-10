@@ -2,6 +2,7 @@
 A series of notebooks, lists, tips and documents covering my knowhow on Machine Learning.
 
 __Author__: Alberto Ibarrondo @ibarrond
+
 __License__: MIT (Do whatever, just mention me please!)
 
 ##### Deep Learning
