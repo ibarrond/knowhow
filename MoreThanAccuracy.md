@@ -8,7 +8,7 @@ Four Outcomes of Binary Classification:
 - _False negatives_: data points labeled as negative that are actually positive.
 
 The most important metrics are:
-- __precision__ = True positives / (True positives + True negatives)
+- __precision__ = True positives / (True positives + False Positives)
 - __recall/Sensitivity__ = True positives / (True positives + False negatives)
 - __F1__ = 2*_precision_*_recall_/(_precision_+_recall_)
 
