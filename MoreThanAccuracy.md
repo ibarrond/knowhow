@@ -9,7 +9,7 @@ Four Outcomes of Binary Classification:
 
 The most important metrics are:
 - __precision__ = True positives / (True positives + True negatives)
-- __recall/Sensitivity = True positives / (True positives + False negatives)
+- __recall/Sensitivity__ = True positives / (True positives + False negatives)
 - __F1__ = 2*_precision_*_recall_/(_precision_+_recall_)
 
 Visualizing Recall and Precision
