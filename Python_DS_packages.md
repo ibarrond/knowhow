@@ -2,12 +2,20 @@ In order to install the Python Packages required for a generic Data Science buil
 
     # Generic Math
     numpy
+    scipy
+    cython
 
+    # Notebooks
+    jupyter
+    jupytext
+    jupyter_contrib_nbextensions
+    
     # Data Science
     pandas
-    jupyter
     seaborn
-
+    statmodels
+    matplotlib_venn
+    
     # Web App and REST
     requests
     flask
@@ -17,5 +25,6 @@ In order to install the Python Packages required for a generic Data Science buil
     scikit-learn
 
     # Time Series
+    statsmodels
     pystan
     fbprophet
