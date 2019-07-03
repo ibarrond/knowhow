@@ -22,5 +22,5 @@ The list of techniques to apply in Deep Learning keeps increasing everyday. Redi
 
 ## On Training techniques:
 - __Several Sizes__: Train first on small, then on bigger images/text/..., shown in Yolov3.
-- __Data Augmentation__: Create modified copies of your training data. --> SELF Supervised learning to train a model to augment data (mostly images).
+- __Data Augmentation__: Create modified copies of your training data. --> SELF Supervised learning to train a model to augment data (mostly images) [link](https://arxiv.org/pdf/1906.07079.pdf)
 - __TTA__: test time augmentation, you run several modifications of an input (image?) over the network and average them as the output.
