@@ -15,6 +15,7 @@ In order to install the Python Packages required for a generic Data Science buil
     seaborn
     statmodels
     matplotlib_venn
+    xgboost
     
     # Web App and REST
     requests
