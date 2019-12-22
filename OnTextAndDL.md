@@ -7,3 +7,5 @@ Ideas to keep in mind
 5. Word embedding avec BERT, XLNet.
 
 Lots of NLP notebooks: check out https://github.com/nlptown/nlp-notebooks
+
+https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
