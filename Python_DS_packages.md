@@ -1,6 +1,7 @@
 In order to install the Python Packages required for a generic Data Science build, one could use the generic __Anaconda__, or if you're like me and you hate downloading a lot of useless stuff and controlling your environment and installed packages, you can simplily use this list by putting it into a `requirements.txt` file and running `pip install -r requirements.txt`.
 
     # Generic Math
+    numba
     numpy
     scipy
     cython
@@ -11,12 +12,19 @@ In order to install the Python Packages required for a generic Data Science buil
     jupyter_contrib_nbextensions
     
     # Data Science
+    dask
     pandas
-    seaborn
-    statmodels
-    matplotlib_venn
+    statsmodels
     xgboost
-    
+
+    # Data visualization
+    holoviews
+    datashader
+    matplotlib
+    matplotlib_venn
+    seaborn
+    bokeh
+
     # Web App and REST
     requests
     flask
@@ -25,7 +33,6 @@ In order to install the Python Packages required for a generic Data Science buil
     tensorflow
     scikit-learn
 
-    # Time Series
-    statsmodels
-    pystan
-    fbprophet
+    # Time Series (Only in Linux)
+    # pystan 
+    # fbprophet
