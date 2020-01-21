@@ -1,5 +1,8 @@
 # Machine Learning Knowhow
-A series of notebooks, lists, tips and documents covering my knowhow on Machine Learning. Separated by topics:
+A series of notebooks, lists, tips and documents covering my knowhow on Machine Learning. Currently migrated to a stylish blog: https://ibarrond.github.io
+
+
+Separated by topics:
 
 ##### Deep Learning
 - _AvoidOverfitting.md_: Tricks to avoid overfitting.
